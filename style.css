@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.notification {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+    background-color: rgba(247, 88, 88, 0.432);
+    color: #000;
+    border-radius: 20px;
+}
+
+.notification__title {
+    font-size: 28px;
+}
